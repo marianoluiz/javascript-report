@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(to right, darkslategrey, black );
+  color: white;
+  font-family: Helvetica, sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+  margin: 0px;
+  border: 3px solid yellow;
+  text-align: center;
+
+  font-size: 20p;
+}
+
+.div2{
+  padding: 100px;
+  border: 3px solid violet;
+}
+
+.div1{
+  padding: 70px;
+  border: 3px solid green;
+}
+
+button{
+  padding: 2px 10px;
+  background-color: gold;
+  display: block;
+}

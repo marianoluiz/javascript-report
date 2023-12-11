@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(to right, darkslategrey, black );
+  color: white;
+  font-family: Helvetica, sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+  margin: 0px;
+
+  font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+  padding: 20px 70px;
+  border: 5px yellow solid;
+}

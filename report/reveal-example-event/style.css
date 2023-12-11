@@ -1,0 +1,63 @@
+body {
+  background-image: linear-gradient(to right, darkslategrey, black );
+  color: white;
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#main-heading {
+  text-align: center;
+  line-height: 70px;
+}
+
+.boxes{
+  height: 400px;
+  width: 300px;  
+  border: solid 3px white;
+  border-radius: 5px;
+}
+
+button {
+  background-color: transparent;
+  color: #FAFBFC;
+  cursor: pointer;
+  font-family: system-ui, "Segoe UI";
+  font-weight: 500;
+  font-size: 16px;
+  margin-right: 20px;
+  padding: 0;
+}
+
+button:active {
+  border-style: inset;
+  /* makes button looks being pused when clicked */
+}
+
+.hidden-content {
+  height: 395px;
+  width: 900px; 
+  text-align: center;
+  line-height: 30px;
+}
+
+.reveal-btn {
+  height: 400px;
+  width: 900px; 
+}
+
+.hidden-content {
+  display: none;
+}
+
+.reveal-btn {
+  display: block;
+}
