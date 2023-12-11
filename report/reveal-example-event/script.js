@@ -16,5 +16,7 @@ function revealContent() {
   hiddenContent.classList.add('reveal-btn');
  }
 }
+//basically chinecheck niya kung may class na reveal-btn (display: block) yung hidden content at tatangalin niya ito if meron. so magiging hidden sha.
 
+//if wala naman, lalagyan niya ng (display: block) at magshshow up na yung hidden content.
 revealBtn.addEventListener('click', revealContent);
