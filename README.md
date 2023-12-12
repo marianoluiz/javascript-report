@@ -2,7 +2,7 @@
 
 Hello, these are our references; you can watch 
 
-https://youtu.be/zJSY8tbf_ys?si=I-9dQfdUrOCuJRE-
+https://youtu.be/zJSY8tbf_ys?si=I-9dQfdUrOCuJRE- - Web development (23 hours | you can watch JavaScript part only)
 
 https://youtu.be/5fb2aPlgoys?si=SzUi-eQxLcTyWDRn -All about DOM (2 hours)
 
