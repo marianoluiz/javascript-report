@@ -1,10 +1,10 @@
 #References
 
-Hello, these are our references
+Hello, these are our references; you can watch 
 
 https://youtu.be/zJSY8tbf_ys?si=I-9dQfdUrOCuJRE-
 
-https://youtu.be/5fb2aPlgoys?si=SzUi-eQxLcTyWDRn
+https://youtu.be/5fb2aPlgoys?si=SzUi-eQxLcTyWDRn -All about DOM (2 hours)
 
 Coding with JavaScript For Dummies - Book by Chris Minnick and Eva Holland
 
