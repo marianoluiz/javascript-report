@@ -80,6 +80,9 @@ document.querySelector('#sports').addEventListener('click', function(e){
   console.log(e.target.getAttribute('id')+ ' is clicked');
 
   const target = e.target;
+// e means the event object (details about event); try doing console.log(e); yung e is galing sa function(e).
+//e.target means yung html element na pinindot or target; try doing console.log(e.target).
+//property kasi ng isang event yung target so i-aaccess natin siya thru dot notation. so like ParentElement.ChildElement; e.target.
 
   if(target.matches('li')) {
     target.style.backgroundColor = 'lightgrey'
