@@ -29,4 +29,4 @@ function changeBgColor() {
 
 newBackgroundColor.addEventListener("mouseover", changeBgColor);
 
-//ganito ren ito pero iba na ang event. you can search up sa google mga iba pang DOM events you can integrate with addEventListener()
+//ganito ren ito pero iba na ang event. you can search up sa google or check sa readME.MD file namin ang mga iba pang DOM events you can integrate with addEventListener()
